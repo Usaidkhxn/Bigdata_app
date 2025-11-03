@@ -1,0 +1,50 @@
+id,first_name,last_name,gender,primary_role,occupation,relationship_status,city,notable_trait,catchphrase,first_appearance_season,related_to,notes,episode_count,nationality,screen_time_minutes
+1,Rachel,Green,F,Main,Buyer/Waitress/Fashion Exec,"Married,Divorced,Single",New York,Trendsetter with strong arc,It's like... you know?,1,Ross,Starts as waitress at Central Perk,236,American,5200
+2,Ross,Geller,M,Main,Paleontologist/Professor,"Divorced,Co-parenting",New York,Pedantic and earnest,We were on a break!,1,Rachel,PhD and dinosaur expert,236,American,5100
+3,Monica,Geller,F,Main,Chef,Married,New York,Competitive and organized,I know!,1,Chandler,Ross’s sister,236,American,5050
+4,Chandler,Bing,M,Main,"Statistical Analyst,Advertiser",Married,New York,Sarcasm king,Could I be any more…?,1,Monica,Known for sarcasm,236,American,5000
+5,Joey,Tribbiani,M,Main,Actor (Days of Our Lives),Single,New York,Food lover and loyal,How you doin'?,1,Chandler,Roommate of Chandler,236,American,4980
+6,Phoebe,Buffay,F,Main,Masseuse/Musician,Married,New York,Quirky and spiritual,Smelly Cat…,1,Joey,Twin sister Ursula,236,American,4950
+7,Janice,Litman Goralnik,F,Recurring,Unknown/Socialite,"Married,Divorced,Dating",New York,Distinctive laugh,Oh. My. God!,1,Chandler,On-off with Chandler,19,American,300
+8,Gunther,,M,Recurring,Barista/Manager (Central Perk),Single,New York,Secretly loves Rachel,...,1,Rachel,Blonde hair barista,148,Dutch,800
+9,Mike,Hannigan,M,Recurring,Pianist,Married,New York,Easygoing and kind,"Phoebe, I love you.",9,Phoebe,Phoebe’s husband,14,American,220
+10,Richard,Burke,M,Recurring,Ophthalmologist,"Divorced,Dating",New York,Sophisticated mustache,Monica…,2,Monica,Older love interest,7,American,200
+11,Carol,Willick,F,Recurring,Teacher,Married,New York,Level-headed,—,1,Ross,Ross’s ex-wife,18,American,150
+12,Susan,Bunch,F,Recurring,Editor,Married,New York,Wry humor,—,1,Carol,Carol’s wife,15,American,120
+13,Ben,Geller,M,Recurring,Student/Child,Single,New York,Playful,—,1,Ross,Ross and Carol’s son,16,American,80
+14,Emma,Geller-Greene,F,Recurring,Infant/Toddler,Single,New York,Cute sleeper,—,9,Rachel,Ross and Rachel’s daughter,12,American,60
+15,Jack,Geller,M,Recurring,Retired,Married,Long Island,Proud and oblivious,—,1,Monica,Ross’s dad,20,American,180
+17,Estelle,Leonard,F,Recurring,Talent Agent,Single,New York,Smoker and brash,"Joey, baby!",1,Joey,Joey’s agent,14,American,130
+18,Ursula,Buffay,F,Recurring,Waitress/Actor,Single,New York,Aloof twin,—,1,Phoebe,Phoebe’s twin,8,American,90
+19,Frank,Buffay Jr.,M,Recurring,Technician,Married,Long Island,Eccentric and sweet,Whoa!,2,Phoebe,Phoebe’s half-brother,9,American,100
+20,Alice,Knight Buffay,F,Recurring,Teacher,Married,Long Island,Enthusiastic,—,3,Frank Buffay Jr.,Marries Frank Jr.,5,American,70
+21,Paolo,,M,Recurring,Model,Single,New York,Charming but sleazy,"Ciao, bella.",1,Rachel,Early boyfriend,3,Italian,50
+22,Kathy,,F,Recurring,Actor,Single,New York,Thoughtful but conflicted,—,4,Chandler,Joey’s girlfriend,6,American,80
+23,Emily,Waltham,F,Recurring,Event Planner,"Married,Divorced",London,Proper and guarded,—,4,Ross,Second wife,14,British,150
+24,Charlie,Wheeler,F,Recurring,Professor,Single,New York,Smart and calm,—,9,Ross,Dates Joey then Ross,8,American,100
+25,David,Crane,M,Recurring,Physicist,Single,New York/Minsk,Shy and brilliant,—,1,Phoebe,On-off with Phoebe,5,American,60
+26,Tag,Jones,M,Recurring,Assistant,Single,New York,Attractive and naive,—,7,Rachel,Rachel’s assistant,5,American,50
+27,Julie,,F,Recurring,Paleontologist,Single,New York,Kind and competent,—,2,Ross,Ross’s girlfriend from China,7,American,90
+28,Mona,,F,Recurring,Marketing,Single,New York,Sincere and upbeat,—,8,Ross,Dates Ross during pregnancy,7,American,80
+29,Erica,,F,Recurring,Unemployed,Married,Ohio,Well-meaning,—,10,Monica,Birth mother of twins,4,American,70
+30,Eddie,Menuek,M,Recurring,Unemployed,Single,New York,Unhinged roommate,—,2,Chandler,Brief roommate,3,American,45
+31,Mr.,Heckles,M,Recurring,Retired,Single,New York,Cranky neighbor,You’re too loud.,1,Monica,Complains about noise,5,American,50
+32,Mr.,Treeger,M,Recurring,Superintendent,Single,New York,Grumbly but kind,—,2,Joey,Building super,4,American,60
+33,Fun,Bobby,M,Recurring,Sales,Single,New York,Party guy turned sober,—,1,Monica,Monica’s ex,2,American,30
+34,Janine,Lecroix,F,Recurring,Dancer/Model,Single,New York,Australian roommate,—,6,Joey,Joey’s roommate,3,Australian,40
+35,Gavin,Mitchell,M,Recurring,Executive (Ralph Lauren),Single,New York,Competent and blunt,—,9,Rachel,Coworker,5,American,50
+36,Pete,Becker,M,Recurring,Tech CEO,Single,New York,Ambitious billionaire,—,3,Monica,Dates Monica,3,American,40
+37,Bonnie,,F,Recurring,Travel Agent,Single,New York,Shaves head,—,3,Ross,Phoebe’s friend,3,American,35
+38,Amy,Green,F,Recurring,Sales,Single,New York,Self-centered,—,9,Rachel,Rachel’s sister,3,American,40
+39,Jill,Green,F,Recurring,Unemployed,Single,New York,Spoiled,—,6,Rachel,Rachel’s sister,2,American,30
+40,Nora,Bing,F,Recurring,Novelist,Divorced,New York,Flirtatious,—,1,Chandler,Chandler’s mother,3,American,40
+41,Charles,Bing (Helena),M,Recurring,Performer,Married,Las Vegas,Wry and theatrical,—,7,Chandler,Chandler’s father,3,American,40
+42,Bob,,M,Minor,Waiter,Single,New York,Helpful Central Perk staff,—,3,Gunther,Background character,1,American,15
+43,Steve,,M,Minor,Restaurant Owner,Single,New York,Tense and rude,—,1,Monica,Employs Monica briefly,1,American,15
+44,Mark,Robinson,M,Minor,Buyer Assistant,Single,New York,Supportive,—,3,Rachel,Helps Rachel career,3,American,30
+45,Sandy,,M,Minor,Nanny,Single,New York,Sensitive,—,9,Ross,Ross’s nanny,2,American,20
+46,Mr.,Zelner,M,Minor,HR Manager,Married,New York,Awkward but fair,—,8,Rachel,Rachel’s boss,4,American,25
+47,Erin,,F,Minor,Graphic Designer,Single,New York,Kind-hearted,—,7,Joey,Dates Joey once,1,American,10
+48,Cassie,Geller,F,Minor,Student,Single,New York,Beautiful cousin,—,7,Ross,Ross’s cousin,1,American,10
+49,Danny,,M,Minor,Neighbor,Single,New York,Friendly,—,5,Rachel,Briefly dates Rachel,2,American,15
+50,Elizabeth,Stevens,F,Recurring,Student,Single,New York,Sweet and young,—,6,Ross,Ross’s student girlfriend,3,American,40
