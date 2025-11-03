@@ -1,5 +1,5 @@
 let currentPage = 1;
-const perPage = 10;
+const perPage = 5;
 let totalPages = 1;
 
 // Fetch characters with pagination
@@ -134,3 +134,4 @@ function updatePaginationButtons() {
 
 
 fetchCharacters();
+
